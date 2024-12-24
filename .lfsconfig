@@ -1,0 +1,4 @@
+[lfs]
+  url = "http://localhost:3000/git/August-end/lfs-test-my.git/info/lfs"
+  access = basic
+
